@@ -35,7 +35,7 @@ function hello(error, src){
     alert("Hello World!" + src)
 }
 
-function goodmorning(src){
+function goodmorning(error, src){
     if (error){
         console.log('error')
         return
