@@ -1,5 +1,5 @@
 // Error handling - Try and Catch
-// First Try is executed and if there no error Catch is ignored , otherwise Catchis executed to catch the error 
+// First Try is executed and if there no error Catch is ignored , otherwise Catch is executed to catch the error 
 // Try and catch works synchronously
 // If an exception happens in the scheduled code, like in the setTimeout thren tryand catch won't work.
 
