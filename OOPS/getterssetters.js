@@ -30,8 +30,7 @@ console.log(a.name)
 // a.fly()
 // a.name = "Eagle"
 // console.log(a.name) 
-
-
+ 
 // Instance of operator. - It allows you to check whether or not objects belongs to a certain class.
 
 // It returns true if object belong to the class or any other class inheriting from it. 
